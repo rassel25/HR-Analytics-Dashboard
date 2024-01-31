@@ -10,7 +10,7 @@ HR  Analytics Dashboard Using Power BI
 -  The HR Analytics Dashboard is a powerful tool designed for HR professionals to analyze and understand employee attrition patterns within an organization. This comprehensive Power BI solution provides insights into attrition rates, active employee counts, and attrition trends based on gender and different age bands. By visualizing these key metrics, HR professionals can make data-driven decisions, optimize workforce management, and foster a diverse and inclusive workplace environment.
 # Technologies Used :-
 ```
-• Advance Excel 👨‍💻 
+• SQL 👨‍💻 
 
 • Power BI 📊
 
@@ -49,13 +49,13 @@ A donut plot offers an alternative representation of attrition rates based on ed
 # Overview:-
 ## Dashboard 
 
-![Untitled design (1)]([https://github.com/jivanjotk/HR-Data-Analysis-Dashboard-Project-Powerbi/assets/122741477/ef4c85f2-0230-470b-8678-0f0c05643d49](https://www.novypro.com/project/hr-analytics-dashboard-power-bi-43))
+![image](https://github.com/rassel25/HR-Analytics-Dashboard/assets/36706178/4acfc8dd-e114-4558-a9b9-4c5884b9493d)
 
-## Dashboard Video
-https://github.com/jivanjotk/HR-Data-Analysis-Dashboard-Project-Powerbi/assets/122741477/6be74b0d-1152-48f9-a781-f497907281d2
+## Dashboard Link
+https://www.novypro.com/project/hr-analytics-dashboard-power-bi-43
 # Contributing
 Contributions to enhance the dashboard or address specific HR analytics challenges are welcome! Please create issues or pull requests to collaborate on improving the dashboard's functionality and visualization.
 # Links :-
 I've shared all the necessary files, datasets, workbooks, and icons above. Please feel free to utilize these resources for your upcoming projects. If you find value in this project and dashboard, consider giving it a star or simply let me know. Your feedback would be greatly appreciated! 
 
-[ Connect with me on LinkedIn 🌐 ]([www.linkedin.com/in/jivanjot-kaur-993220262](https://www.linkedin.com/in/mdgolamrassellincoln/)https://www.linkedin.com/in/mdgolamrassellincoln/)
+[ Connect with me on LinkedIn 🌐 ](https://www.linkedin.com/in/mdgolamrassellincoln/)
